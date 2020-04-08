@@ -162,6 +162,8 @@ group :test do
 
   # Code Coverage
   gem 'simplecov'
+  gem 'simplecov-cobertura'
+  # provides code coverage report integration for jenkins and github
   gem 'coveralls', require: false
 end
 
