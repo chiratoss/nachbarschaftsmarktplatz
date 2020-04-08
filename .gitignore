@@ -39,6 +39,10 @@ config/secrets.yml
 config/paypal_adaptive.yml
 #email addresses
 config/email_addresses.yml
+#database config
+config/database.yml
+#elasticsearch config
+config/chewy.yml
 
 #Solr Development
 solr/data/**/*
